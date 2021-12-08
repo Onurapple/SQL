@@ -7,3 +7,4 @@ SELECT  name FROM tracks;
 SELECT  name, Composer FROM tracks;
 SELECT DISTINCT name FROM tracks;
 SELECT total FROM invoices WHERE total &gt; 10;</sql><current_tab id="0"/></tab_sql></sqlb_project>
+SELECT DISTINCT name, Composer FROM tracks;
